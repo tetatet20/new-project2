@@ -11,6 +11,6 @@ import Header from './components/Header.vue'
       <h2 class="text-3xl font-bold mb-8">Все кроссовки</h2>
     </div>
     <CardList />
-    <h1>romanelox</h1>
+    <h1>romeeanelox</h1>
   </div>
 </template>
