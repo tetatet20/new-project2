@@ -14,10 +14,5 @@ const onClickAdd = () => {
       :isFavorite="true"
       :onClickAdd="onClickAdd"
     />
-    <Card />
-    <Card />
-    <Card />
-    <Card />
-    <Card />
   </div>
 </template>
